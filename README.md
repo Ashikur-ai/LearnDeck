@@ -38,7 +38,7 @@ Coming soon...
 
 ## 🔗 Live Demo
 
-> [Visit LearnDeck 🚀](https://learn-deck.vercel.app)  
+> [Visit LearnDeck 🚀](https://learn-deck.netlify.app)  
 > *(Add your actual live link once deployed)*
 
 ---
